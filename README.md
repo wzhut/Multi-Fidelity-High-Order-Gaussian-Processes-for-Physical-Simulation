@@ -3,7 +3,8 @@
 This repository contains the code for [MFHoGP paper](https://arxiv.org/abs/2006.04972).
 
 If you find this useful, or if you use it in your work, please cite:
-`
+
+```
   @article{wang2020multi,
   
     title={Multi-Fidelity High-Order Gaussian Processes for Physical Simulation},
@@ -14,7 +15,7 @@ If you find this useful, or if you use it in your work, please cite:
     
     year={2020}
   }
-`
+```
 
 
 ## Requirements
