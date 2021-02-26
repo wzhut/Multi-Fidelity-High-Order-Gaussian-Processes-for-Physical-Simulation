@@ -1,6 +1,6 @@
 # Multi-Fidelity-High-Order-Gaussian-Processes-for-Physical-Simulation
 
-This repository contains the code for[MFHoGP paper]().
+This repository contains the code for [MFHoGP paper]().
 
 
 ## Requirements
